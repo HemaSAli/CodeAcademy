@@ -34,9 +34,13 @@ body, html {
   margin:20px;
   font-size: 15px;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 15px;
   cursor: pointer;
-     transition-duration: 0.4s;
+
+}
+.button:hover{
+	background-color:#808184;
+	color:black;
 }
 
 	
